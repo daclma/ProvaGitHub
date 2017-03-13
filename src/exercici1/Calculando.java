@@ -1,13 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package exercici1;
 
 /**
  *
- * @author usuario
+ * @author Victor Cantizano Fernandez
  */
 public class Calculando {
 
