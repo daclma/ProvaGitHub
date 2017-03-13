@@ -1,0 +1,3 @@
+﻿Barcelona:Barcelona:08032:Victor Cantizano Fernandez:12345678M:Calle Valencia, 10, Atico:638222273:0:vicafe@bemen3.cat:12/01/1993:001:21/09/2016:10:100:0:5:10:29/01/2017:Correcto
+Barcelona:Barcelona:08024:Ferran Castillo:98765423X:Calle Avila, 64, Enlo:934773882:0:fecabe@bemen3.cat:14/08/1994:002:21/09/2016:10:100:0:5:10:29/01/2017:Correcto
+Barcelona:Barcelona:08030:Daniel Clares Martin:21760236M:Carrer d'Amilcar, 183, Enlo:651444485:0:daclma2@bemen3.cat:31/12/1996:003:21/09/2016:10:100:0:5:10:29/01/2017:Correcto
