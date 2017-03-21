@@ -7,7 +7,7 @@ package exercici1;
 
 /**
  *
- * @author usuario
+ * @author DANI
  */
 public class Main {
 
